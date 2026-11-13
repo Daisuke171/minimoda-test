@@ -6,6 +6,12 @@ Sitio a probar: https://minimoda-navy.vercel.app/
 
 Acá no está el código de la tienda, solo lo que producís vos como tester.
 
+## Entregas
+
+- [Clase 1: práctica de testing](clase-01/practica.md)
+- [Clase 2: MCP](clase-2-mcp/)
+- [Clase 3: auditoría del agente MiniModa](clase-3-auditoria-agente-minimoda/)
+
 ## Paso a paso (sin terminal)
 
 | # | Paso | Tiempo |
